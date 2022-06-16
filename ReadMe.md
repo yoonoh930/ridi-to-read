@@ -5,7 +5,7 @@ This project is to help convert the ridibooks highlights drag-and-drop format to
 ## How to use
 
 ```shell
-python3 name_of_the_file -t "Book Title" -a "Author Name"
+python3 main.py name_of_the_file -t "Book Title" -a "Author Name"
 ```
 
 ## Format of the text file
