@@ -6,6 +6,8 @@ authors = ["Yoon Oh <yoonoh930@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
+python-dateutil = "^2.8.2"
+pandas = "^1.4.2"
 
 [tool.poetry.dev-dependencies]
 
